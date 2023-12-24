@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📚 Linear Algebra Lecture Notes",
+    pageTitle: "📚 A Reference Guide to Linear Algebra",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
