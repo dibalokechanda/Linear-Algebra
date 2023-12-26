@@ -13,7 +13,7 @@ function Backlinks({ fileData, allFiles, displayClass }: QuartzComponentProps) {
           backlinkFiles.map((f) => (
             <li>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-                {f.frontmatter?.title.replace(/[^a-zA-Z]/g, ' ')}
+                {f.frontmatter?.title}
               </a>
             </li>
           ))

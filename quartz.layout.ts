@@ -1,6 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { mapFn, sortFn } from "./functions"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -31,10 +30,6 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Explorer", // title of the explorer component
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: "open", // default state of folders ("collapsed" or "open")
-      mapFn: mapFn,
-      sortFn: sortFn,
-      order: ["sort","map"],
-
 })),
   ],
   right: [
