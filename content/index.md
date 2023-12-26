@@ -12,7 +12,7 @@ To see all the topics use the navigation bar on the left. I also listed out the 
 
 #### Basics
 
-- [[Matrix Vector Multiplication]] : A mathematical perspective to matrix vector multiplication.
+- [[2]] : A mathematical perspective to matrix vector multiplication.
 - [[Matrix Multiplication as Transformation]]: Matrix Multiplication as Transformation Perspective.
 
 
