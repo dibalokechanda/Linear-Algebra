@@ -12,8 +12,8 @@ To see all the topics use the navigation bar on the left. I also listed out the 
 
 #### Basics
 
-- [[1.Matrix Vector Multiplication]] : A mathematical perspective to matrix vector multiplication.
-- [[3.Matrix Multiplication as Transformation]]: Matrix Multiplication as Transformation Perspective.
+- [[Matrix Vector Multiplication]] : A mathematical perspective to matrix vector multiplication.
+- [[Matrix Multiplication as Transformation]]: Matrix Multiplication as Transformation Perspective.
 
 
 ## References

@@ -65,7 +65,7 @@ To put it into words, we are plugging in a vector $\mathbf{x} \in \mathbb{R}^{n}
 
 ![[Pasted image 20231226003150.png]]
 
-Now what kind of transformation would it be depends on the nature of the matrix. Visualization and intuition behind these transformations are explained in detail in [[3.Matrix Multiplication as Transformation]]. 
+Now what kind of transformation would it be depends on the nature of the matrix. Visualization and intuition behind these transformations are explained in detail in [[Matrix Multiplication as Transformation]]. 
 
 Another important thing to mention here, these transformations require one specific property which is the function needs to be linear. In other words, these transformations need to hold the .
 
