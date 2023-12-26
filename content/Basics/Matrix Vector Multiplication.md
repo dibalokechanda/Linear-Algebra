@@ -65,6 +65,33 @@ To put it into words, we are plugging in a vector $\mathbf{x} \in \mathbb{R}^{n}
 
 ![[Pasted image 20231226003150.png]]
 
-Now what kind of transformation would it be depends on the nature of the matrix. For pure diagonal matrices the transformation is just scaling the vector, for orthogonal/unitary matrices the transformation is just rotation.
+Now what kind of transformation would it be depends on the nature of the matrix. Visualization and intuition behind these transformations are explained in detail in [[Matrix Multiplication as Transformation]]. 
+
+But these transformations require one specific property which is the function needs to be linear.
+
 
 ## Inner Product Perspective
+
+For this perspective we need to express the matrix $\mathbf{A}$ as follows:
+
+
+$$
+\mathbf{A}=\left[\begin{array}{ccc}
+- & \mathbf{a_1}^{\top} & - \\
+
+- & \mathbf{a_2}^{\top} & - \\
+
+& \vdots & \\
+
+-& \mathbf{a_n}^{\top} & -
+\end{array}\right]
+$$
+
+Considering this, the matrix-vector multiplication can be expressed as the following:
+
+
+$$
+\mathbf{A}\mathbf{x} = \left[ \begin{array}{c}\langle \mathbf{a_1},\mathbf{x }\rangle  \\\ \langle \mathbf{a_2},\mathbf{x }\rangle \\ \vdots \\ \langle \mathbf{a_n},\mathbf{x}\rangle\end{array} \right]
+$$
+
+
