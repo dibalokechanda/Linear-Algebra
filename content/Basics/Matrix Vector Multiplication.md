@@ -7,7 +7,7 @@ date: 2023-12-23
 Consider a matrix $\mathbf{A} \in \mathbb{R}^{m\times n}$ and a vector $\mathbf{x} \in \mathbb{R}^{n}$. 
 
  $$
-A=\left[\begin{array}{cccc}
+\mathbf{A}=\left[\begin{array}{cccc}
 \mid & \mid & & \mid \\
 \mathbf{a_1} & \mathbf{a_2} & \ldots & \mathbf{a_n} \\
 \mid & \mid & & \mid
