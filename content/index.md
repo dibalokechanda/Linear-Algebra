@@ -12,9 +12,9 @@ To see all the topics use the navigation bar on the left. I also listed out the 
 
 #### Basics
 
-- [[1.1. Matrix Vector Multiplication]]] A mathematical perspective to matrix vector multiplication.
-- [[1.2. Linearity]]:  Formal definition of Linearity
-- [[1.3. Matrix Multiplication as Transformation]]: Matrix Multiplication as Transformation Perspective.
+- [[1.1. Matrix Vector Multiplication|Matrix Vector Multiplication: ]]A mathematical perspective to matrix vector multiplication.
+- [[1.2. Linearity|Linearity: ]]:  Formal definition of Linearity
+- [[1.3. Matrix Multiplication as Transformation| Matrix Multiplication as Transformation]]: Matrix Multiplication as Transformation Perspective.
 
 
 ## References
