@@ -1,5 +1,5 @@
 ---
-title: Matix Vector Multiplicaton
+title: Matix Vector Multiplication
 draft: false
 date: 2023-12-23
 ---
