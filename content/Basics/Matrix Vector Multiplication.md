@@ -22,7 +22,10 @@ $$
 $$
 
 
-There are several ways we can express the Matrix vector multiplication. 
+There are several ways we can interpret the Matrix vector multiplication. 
+
+
+## Linear Combination of Columns of Matrix
 
 A way to express it is scaling the columns of $\mathbf{A}$ with the elements of vector $\mathbf{x}$. 
 
@@ -41,13 +44,14 @@ $$
 
 This can be written in a much more compact form as follows:
 
-
-
 $$
 \mathbf{A}\mathbf{x}= x_1 \mathbf{a_1}+x_2\mathbf{a_2}+ \ldots +x_n\mathbf{a_n}= \sum_{i=1}^{n}x_{1} \mathbf{a_1}
 $$
 
-##  The Functional Transformation perspective of Matrix-Vector Multiplication
+This is nothing but a linear combination of the columns of matrix $\mathbf{A}$. 
+
+
+## Functional Transformation Perspective
 
 We can interpret the matrix-vector multiplication through the lens of functions.
 
@@ -57,10 +61,10 @@ $$
 f(\mathbf{x})=\mathbf{A} \mathbf{x}
 $$
 
-To put it into words, we are plugging in a vector $\mathbf{x} \in \mathbb{R}^{n}$ and applying a transformation defined by a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$. The result of the transformation is another vector in $\mathbb{R}^{m}$. 
+To put it into words, we are plugging in a vector $\mathbf{x} \in \mathbb{R}^{n}$ which results in applying a transformation defined by a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$. The result of the transformation is another vector in $\mathbb{R}^{m}$.  This can be further interpreted as a mapping between two vector spaces; from $\mathbb{R}^{n}$ to  $\mathbb{R}^{m}$.
 
+![[Pasted image 20231226003150.png]]
 
+Now what kind of transformation would it be depends on the nature of the matrix. For pure diagonal matrices the transformation is just scaling the vector, for orthogonal/unitary matrices the transformation is just rotation.
 
-
-
-
+## Inner Product Perspective
