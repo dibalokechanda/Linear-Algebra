@@ -4,6 +4,16 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/Basics/Matrix Vector Multiplication.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/1. Basics/1.1. Matrix Vector Multiplication.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/1. Basics/1.2. Linearity.md"
         }
     ]
 }
