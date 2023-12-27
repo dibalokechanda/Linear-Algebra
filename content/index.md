@@ -19,6 +19,6 @@ To see all the topics use the navigation bar on the left. I also listed out the 
 
 ## References
 
--  [Numerical Linear Algebra by by Lloyd N. Trefethen, David Bau ](https://books.google.com/books?id=4Mou5YpRD_kC&printsec=frontcover)
+-  [Numerical Linear Algebra by by Lloyd N. Trefethen, David Bau III](https://books.google.com/books?id=4Mou5YpRD_kC&printsec=frontcover)
 
 
