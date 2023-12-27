@@ -11,8 +11,6 @@ date: 2023-12-23
 - To see all the topics use the **Explorer** on the left. I also listed out the the topics in the following section. 
 - The site is optimized for **light mode**. Use the **toggle button** on top of the Explorer to switch between light mode and dark mode. 
 -------
-
-
 ## Contents 
 
 #### Basics
@@ -24,6 +22,6 @@ date: 2023-12-23
 
 ## References
 
--  [Numerical Linear Algebra by by Lloyd N. Trefethen, David Bau III](https://books.google.com/books?id=4Mou5YpRD_kC&printsec=frontcover)
+-  [Trefethen, L. N., & Bau, D. (2022). _Numerical linear algebra_ (Vol. 181). Siam](https://books.google.com/books?id=4Mou5YpRD_kC&printsec=frontcover)
 
 
