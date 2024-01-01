@@ -1,0 +1,19 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "1. Basics/1.6. Span.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "1. Basics/1.5. Subspaces.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "1. Basics/1.4. Matrix Matrix Multiplication.md"
+        }
+    ]
+}
