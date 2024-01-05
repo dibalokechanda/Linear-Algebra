@@ -28,4 +28,4 @@ date: 2023-12-23
 
 -  [Trefethen, L. N., & Bau, D. (2022). _Numerical linear algebra_ (Vol. 181). Siam](https://books.google.com/books?id=4Mou5YpRD_kC&printsec=frontcover)
 
-
+> All other references are mentioned in the correspond pages. 
