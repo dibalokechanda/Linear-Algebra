@@ -39,6 +39,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "1. Basics/1.10. Kernel and Null Space.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "1. Basics/1.7. Linear Independence.md"
         }
     ]
 }
