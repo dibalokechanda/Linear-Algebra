@@ -44,6 +44,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "1. Basics/1.7. Linear Independence.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "1. Basics/1.11. Basis, Dimension and Rank.md"
         }
     ]
 }
